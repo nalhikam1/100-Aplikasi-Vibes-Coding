@@ -68,4 +68,37 @@ itu dia masalahnya.
 - Ga semuanya yang kamu kira instant, itu seinstant itu, mi instant aja harus dibuka dulu bungkusnya dan digoreng, dikasi bumbu baru enak dimakan
 
 ## VIBES CODING ITU IBARAT MIE INSTANT butuh dibuka dan dimasak dulu dan dibumbuin, sama persis deh tapi coba pikir lagi dan jangan asal menilai
+Semua perjalanan manusia itu tidak akan sama, termasuk aku dan kamu, saat ini aku sudah selelah ini dengan ai, mungkin kamu baru mau mulai dan merasa ada potensi juga buakn?
 
+iya jujur aja aku juga gitu, aku rasa kalo aku bisa nguasain teknologi ini, aku bisa jadi kaya dengan cara aku ahli didalam pengembangan AI ini, dan cara memadukan semua kecerdasan ku dengan adanya AI, aku bukan pemalas, aku udah berusaha, hanya saja kita seringkali kesulitan menemukan resepnya yang bener yang pas gimana.
+
+Emang saat aku belajar dari awal aku selalu dikasih tau untuk mencoba ini:
+1. Fine Tuning Model AI, ini istilahnya untuk bisa seting AI dulu sebelum melakukan prompting apapun, agar dia jawab sesuai keinginan kita dan style yang kita mau, iya kalo masih cuma generate kata kata dia pinter dan mudah untuk dicustom.
+2. Semisal untuk dibuat tau misalnya kamu adalah ahli pencari berita, atau penulis artikel, itu gampang banget, kan? tapi kalo urusannya disuruh ngoding dan buat website, itu beda lagi ceritanya.
+3. Jadi disini, akhirnya aku ga tuning lagi aiku dan pake cara yang lebih simpel
+4. Aku buat semua ideku dulu dengan jelas mau apa lalu diimprove lagi dengan prompt, menyiapkan stack yang ingin digunakan, yang paling mudah, paling ringan, paing murah, bahkan mendekati gratis, ini yang aku cari dan mau aku pake.
+5. Kalo bayarpun ya tidak mahal amat gitu dan aku masih sanggup dan ga nombok banyak kali.
+6. Pada faktanya waktuku juga berharga, aku bekerja seharian untuk ini.
+7. Jadi kalo ada yang bilang aku males karena pake AI, its okay, kamu keren bisa begitu, tapi ini karena aku butuh untuk memahami data yang udah Petabyte bro di Internet.
+8. HIdupku ga cuma buat ngoding, atau buat website seumur hidup
+9. Ane mau nikah mau seneng seneng dimasa depan
+10. Makanya sekarang capenya itu wajar, masi tahun pertama aku kerja tapi aku akan membuktikan bahwa aku bisa, aku bukan pemalas!
+11. Aku udah berusaha, dan ini usahaku.
+12. nih liat 100 aku buat aplikasi yang mungkin kamu dulu selalu cari dan anggap mahal dan susah untuk ddiapatkan.
+13. Semua ini aku dapatkan dan aku buat BAYAR LANGGANAN, waktuku juga MAHAL. sama kaya waktu kamu para boss yang sering menindas para bawahannya. haha.
+14. Yang aku lakukan hanya menindas AI, dan dia bot dengan Zero Judgement haha. beda sama manusia yang baper juga, boss baper, karyawan baper, kapan maju.
+15. that's the reality
+16. Dari sini aku jadi tau bisnis bagaimana
+17. kehidupan manusia itu bagaimana
+18. ternyata ai ini ada tugasnya juga
+19. ternyata ai ini kalo dipake bener ya bener juga hasilnya
+20. aku juga pernah nyoba iseng aneh aneh pake ai, dia bisa dan begitulah ai, sesuai dengan penggunanya, bukan salah ainya
+21. kalo kamu nyalahin ai terus, salahin kumpulan data yang jumlah skalanya seluruh dunia itu, dan kamu hanya 1 dari milyaran orang yang menganggap itu haha. kamu bakal kalah dengan aku yang tau cara pake ai ini
+22. aku akan buktikan itu, hari ini juga.
+23. 1 April hari dimana aku kena april mop dari langganan alibaba cloud yang ga jelas, amazon yang tiba tiba ngelonjak, trial yang udah pada abis, bah bikin kaget aja semuanya.
+24. kamu kira jalan yang aku tempuh ini mudah?
+25. kalo mudah coba aja, wkkw kalo memang mudah.
+26. huhu cape bagnet.
+27. kesel, pegel, pengen berhneti, tapi aku banyak pikiran dan impian yang harus dikejar.
+28. gapapa sekarang cape dan mengejar ketertinggalan ku untuk menjadi orang yang lebih ahli lagi.
+29. semakin aku belajar, semakin aku merasa haus, dan selalu mencari alternatif terbaik dalam hidup ini.
